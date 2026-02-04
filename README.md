@@ -11,8 +11,8 @@ This repository provides a systematic audit and mapping of the Trustworthy AI (T
 
 ## 📊 Study Overview
 
-* **Total Framework Papers Included:** X
-* **Total Metrics Canonized:** Y
+* **Total Framework Papers Included:** 8
+* **Total Metrics Canonized:** 136
 * **NIST Alignment:** Each metric is categorized under the 7 NIST Trustworthiness Characteristics:
     * Valid & Reliable
     * Safe
