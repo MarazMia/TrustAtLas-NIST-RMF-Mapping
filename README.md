@@ -5,7 +5,7 @@
 [![NIST AI RMF](https://img.shields.io/badge/Framework-NIST%20AI%20RMF%201.0-blue)](https://www.nist.gov/itl/ai-risk-management-framework)
 
 
-This repository provides a systematic audit and mapping of the Trustworthy AI (TAI) landscape. It canonizes **X** foundational framework papers and **Y** technical metrics, aligning them directly with the core functions and trustworthiness pillars defined in the **NIST AI Risk Management Framework (AI RMF 1.0)**.
+This repository provides a systematic audit and mapping of the Trustworthy AI (TAI) landscape. It canonizes **8** foundational framework papers and **136** technical metrics, aligning them directly with the core functions and trustworthiness pillars defined in the **NIST AI Risk Management Framework (AI RMF 1.0)**.
 
 
 
